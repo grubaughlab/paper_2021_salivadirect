@@ -1,6 +1,6 @@
 # Data 
 
-[Vogels et al., 2021. 'SalivaDirect: A simplified and flexible platform to enhance SARS-CoV-2 testing capacity'. MedRxiv] (https://www.medrxiv.org/content/10.1101/2020.08.03.20167791v2)
+[Vogels et al., 2020. 'SalivaDirect: A simplified and flexible platform to enhance SARS-CoV-2 testing capacity'. MedRxiv](https://www.medrxiv.org/content/10.1101/2020.08.03.20167791v2)
 
 ---
 
